@@ -10,5 +10,6 @@ names = names_string.split(",")
 names_length = len(names)
 
 
+# just for testing purposes
 print(names_length)
 print(names[3])
